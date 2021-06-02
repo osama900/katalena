@@ -14,6 +14,10 @@ else if(age >=10 && age <30){
   document.write("<div>"+"sdfgfddfgfd"+"</div>")
 }
 else if(age >= 30 && age < 50) {
-  document.write("<h3> "+ "hellow mad"+"</h3>")
+  document.write("<div> "+ "hellow man"+"</div>")
+}
+else{
+    document.write("<div> "+ "hellow sair"+"</div>")
+
 }
 
