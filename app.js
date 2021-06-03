@@ -1,4 +1,6 @@
-/*
+
+
+
 var welcom = "H! to you in KATALENA"
 alert(welcom)
 
