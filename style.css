@@ -94,6 +94,7 @@ ul{
   display: block;
 
 
+<<<<<<< HEAD
 footer {
   background-color:#3E8D32;
 
@@ -102,4 +103,9 @@ footer {
 #line{
   height:355px ;
   background-color: red;
+=======
+footer{
+  background-color:#3E8D32;
+
+>>>>>>> 371cd73cfef0707b59007bf8ed1030f12aad7614
 }
