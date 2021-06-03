@@ -1,3 +1,4 @@
+/*
 var welcom = "H! to you in KATALENA"
 alert(welcom)
 
@@ -7,7 +8,7 @@ while (age < 18 ){
   age = prompt("you need to be older than 18")
 }
  
- 
+
   alert  ("Do you like our service ?")
 
   var rate = prompt("rate us from 1-5")
