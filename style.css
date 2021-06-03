@@ -27,9 +27,12 @@ li a {
 
   
 }
+<<<<<<< HEAD
 h3{
   padding-left: 150px;
 }
+=======
+>>>>>>> 0a775b998fe838d08a41e3141ea52b9b2dcb838c
 
 li {
   vertical-align: center;
@@ -38,16 +41,24 @@ float: center;
   padding: 20px;
 
 }
+<<<<<<< HEAD
 #top{
+=======
+ul{
+>>>>>>> 0a775b998fe838d08a41e3141ea52b9b2dcb838c
   vertical-align: center;
   float: right;
   display: inline-block;
   text-align: right;
 }
+<<<<<<< HEAD
 #bbc{
     background-color: #E5E4E2;
 
 }
+=======
+
+>>>>>>> 0a775b998fe838d08a41e3141ea52b9b2dcb838c
 
 #mainImg {
   padding:25px ;
@@ -62,6 +73,7 @@ float: center;
   padding-top: 60px;
 
 }
+<<<<<<< HEAD
 
 #aIC{
     background-color: #E5E4E2;
@@ -86,4 +98,8 @@ float: center;
 #nSl li{
   display: block;
 
+=======
+footer{
+  background-color: #3E8D32;
+>>>>>>> 0a775b998fe838d08a41e3141ea52b9b2dcb838c
 }
