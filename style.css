@@ -102,4 +102,13 @@ footer {
 #line{
   height:355px ;
   background-color: red;
+footer{
+  background-color:#3E8D32;
+
+}
+.ratIMG{
+  float: center;
+  display: block;
+  padding: 10px;
+
 }
