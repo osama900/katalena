@@ -94,6 +94,10 @@ ul{
   display: block;
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 09047472cf54837ad598926e0e5f8f94618299ef
 footer {
   background-color:#3E8D32;
 
@@ -102,6 +106,7 @@ footer {
 #line{
   height:355px ;
   background-color: red;
+<<<<<<< HEAD
 footer{
   background-color:#3E8D32;
 
@@ -111,4 +116,11 @@ footer{
   display: block;
   padding: 10px;
 
+=======
+=======
+footer{
+  background-color:#3E8D32;
+
+>>>>>>> 371cd73cfef0707b59007bf8ed1030f12aad7614
+>>>>>>> 09047472cf54837ad598926e0e5f8f94618299ef
 }

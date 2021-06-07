@@ -35,11 +35,15 @@ document.write('<img class="ratIMG" style="width:100px" src="https://w7.pngwing.
 
 
 
+var helloWorld = function(name) {
+  console.log('A new world awaits, ' + name);
+}
 
-
-
-
-
+helloWorld();
+function helloWorld2(name) {
+  console.log('A new world awaits, ' + name);
+}
+helloWorld2();
 
 
 
